@@ -1,0 +1,12 @@
+- Click “Create Workflow.”
+- Click “Add First Step.”
+- Search for “Chat Trigger” and select it.
+- Click the “+” button to add another node.
+- Search for “Gmail.”
+- Select “Send a Message.”
+- Enter your Gmail account (authenticate if needed).
+- Enter the receiver’s Gmail address.
+- Enter the subject and message you want to send.
+- Click “Execute Workflow.”
+- # Screenshot
+- <img width="401" height="221" alt="image" src="https://github.com/user-attachments/assets/5860d2c1-ce46-4636-854d-4cf8ab208665" />
