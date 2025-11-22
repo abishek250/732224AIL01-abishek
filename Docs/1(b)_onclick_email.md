@@ -1,0 +1,15 @@
+- Sign in to n8n
+- Click “Create Workflow.”
+- Click “Add First Step.”
+- Search for “Schedule Trigger.”
+- Configure the schedule according to your preferences.
+- Click “Execute Step.”
+- Click the “+” button to add another node.
+- Search for “Gmail.”
+- Select “Send Message.”
+- Sign in with your Gmail account to authenticate.
+- Enter the recipient’s email address.
+- Enter the subject and write the email message you want to send.
+- Click “Execute.”
+- # Screenshot
+- <img width="449" height="244" alt="image" src="https://github.com/user-attachments/assets/f7dfb1e0-c566-4ed1-86f3-1e5b1d532861" />
