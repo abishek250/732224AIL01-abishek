@@ -1,0 +1,8 @@
+- Signin into n8n
+- Create a project
+- Search chat trigger
+- AI agent
+- Google Gemini API key
+- Ask anything & run
+- # Screenshot
+- <img width="553" height="337" alt="image" src="https://github.com/user-attachments/assets/049656ee-4dad-4b30-81ab-40bef1f863b4" />
