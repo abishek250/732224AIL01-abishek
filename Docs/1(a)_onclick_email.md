@@ -1,0 +1,6 @@
+- Signin into n8n
+- Create a workflow
+- Gmail
+- Send messages
+- # Screenshot
+- <img width="505" height="279" alt="image" src="https://github.com/user-attachments/assets/aa37d6f5-74a0-4b89-b211-e292012f3333" />
