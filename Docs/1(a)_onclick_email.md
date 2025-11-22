@@ -1,6 +1,11 @@
-- Signin into n8n
-- Create a workflow
-- Gmail
-- Send messages
-- # Screenshot
+- Click “Create Workflow”
+- Click “Add First Step”
+- Search for “Manual Trigger”
+- Add it to the canvas
+- Click the “+” button to add another node
+- Search for “Gmail”
+- Choose “Send a Message”
+- Enter your Gmail account (connect your credentials)
+- Enter the receiver’s Gmail address
+- Write the subject and message you want to send
 - <img width="505" height="279" alt="image" src="https://github.com/user-attachments/assets/aa37d6f5-74a0-4b89-b211-e292012f3333" />
